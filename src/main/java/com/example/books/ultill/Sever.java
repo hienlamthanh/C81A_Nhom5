@@ -8,4 +8,5 @@ public class Sever {
     public static String DuongDanDonHang="http://" + localhost + ":81/server/thongtinkhachhang.php";
     public static String DuongDanChiTietDonHang="http://" + localhost + ":81/server/chitietdonhang.php";
 
+    
 }
