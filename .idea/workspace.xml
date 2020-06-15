@@ -12,11 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70accfa5-75b3-4787-abbf-ea89d27f4f32" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Giohang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Giohang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Thongtinkhachhang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Thongtinkhachhang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/books/ultill/Sever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/books/ultill/Sever.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_giohang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_giohang.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_thongtinkhachhang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_thongtinkhachhang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +20,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="192.168.123.105:5555" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
