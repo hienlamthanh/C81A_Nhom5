@@ -10,7 +10,14 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70accfa5-75b3-4787-abbf-ea89d27f4f32" name="Default Changelist" comment="" />
+    <list default="true" id="70accfa5-75b3-4787-abbf-ea89d27f4f32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Giohang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Giohang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Thongtinkhachhang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/books/activity/Thongtinkhachhang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/books/ultill/Sever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/books/ultill/Sever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_giohang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_giohang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_thongtinkhachhang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_thongtinkhachhang.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +49,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cGd5rlgtzOvob0GDlSXSZyLd1r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="192.168.123.105:5555" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-08T06:55:09.002Z" />
@@ -141,5 +152,18 @@
       <updated>1590158684078</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

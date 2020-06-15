@@ -56,7 +56,7 @@ public class  Giohang extends AppCompatActivity {
                     Intent intent = new Intent(getApplicationContext(),Thongtinkhachhang.class);
                     startActivity(intent);
                 }else {
-                    CheckConnection.ShowToast_Short(getApplicationContext(),"gio hang cua ban chua co sach de thanh toan");
+                    CheckConnection.ShowToast_Short(getApplicationContext(),"Giỏ hàng của bạn chưa có sản phẩm đề thanh toán");
                 }
             }
         });
@@ -68,9 +68,9 @@ public class  Giohang extends AppCompatActivity {
             @Override
             public boolean onItemLongClick(AdapterView<?> parent, View view, final int position, long id) {
                 AlertDialog.Builder builder = new AlertDialog.Builder(Giohang.this);
-                builder.setTitle("Xac nhan xoa sp");
-                builder.setMessage("ban co chac mun xoa sp nay");
-                builder.setPositiveButton("co", new DialogInterface.OnClickListener() {
+                builder.setTitle("Xác nhận xoá sản phẩm");
+                builder.setMessage("Bạn có chắc muốn xoá sản phẩm này");
+                builder.setPositiveButton("Có", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         if (MainActivity.manggiohang.size()<=0){
@@ -90,7 +90,7 @@ public class  Giohang extends AppCompatActivity {
 
                     }
                 });
-                builder.setNegativeButton("khong", new DialogInterface.OnClickListener() {
+                builder.setNegativeButton("Không", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         giohangAdapter.notifyDataSetChanged();

@@ -124,7 +124,7 @@ public class Thongtinkhachhang extends AppCompatActivity {
                     };
                     requestQueue.add(stringRequest);
                 }else {
-                    CheckConnection.ShowToast_Short(getApplicationContext(),"ban chua nhap day du thong tin");
+                    CheckConnection.ShowToast_Short(getApplicationContext(),"Bạn chưa nhập đầy đủ thông tin");
                 }
             }
         });
